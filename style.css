@@ -75,7 +75,7 @@ body {
   font-size: 40px;
 }
 
-@media (max-width: 380px) {
+@media (max-width: 310px) {
   body {
     background: url(./images/bg-mobile.svg) hsl(257, 40%, 49%);
     background-repeat: no-repeat;
